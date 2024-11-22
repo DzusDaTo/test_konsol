@@ -12,8 +12,12 @@
 
 Клонируйте репозиторий:
 ```
-git clone <url>
+git clone https://github.com/DzusDaTo/test_konsol.git
 cd library_manager
+```
+## Запуск скрипта
+
+```
 python library_manager.py
 ```
 
